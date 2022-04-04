@@ -6,3 +6,4 @@ Algunos proyectos de ciencia de datos en el lenguaje de programacion R.
 [Razones financieras](https://github.com/GallegosLuna/Ciencia-de-Datos-R/blob/main/FinanzasCorporativasRazonesFinancieras.ipynb)
 # Series de tiempo
 [Extraccion de datos y graficos](https://github.com/GallegosLuna/Ciencia-de-Datos-R/blob/main/Extraccion%20de%20datos%20yahoo%20finanzas%20R.ipynb)
+
